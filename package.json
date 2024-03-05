@@ -1,0 +1,15 @@
+{
+  "name": "whatanime-bot",
+  "module": "bot.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "grammy": "^1.21.1"
+  }
+}
