@@ -1,15 +1,13 @@
-# whatanime-bot
 
-To install dependencies:
+# Tech Stack
 
-```bash
-bun install
-```
+- [Bun.js](https://bun.sh/)
+- [Grammy](https://grammy.dev/guide/)
+- [Axios](https://axios-http.com/docs/intro)
 
-To run:
+# Preview
 
-```bash
-bun run bot.ts
-```
 
-This project was created using `bun init` in bun v1.0.29. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+
+https://github.com/FForFachriza/tebakanime-bot/assets/68158429/310f65bf-1984-4040-ba06-eaffd73f5766
+
